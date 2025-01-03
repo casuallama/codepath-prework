@@ -12,19 +12,28 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+The following **additional** functionality is completed:
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+- [x] Button label changed to describe the function
+- [x] Text color changed to match school colors
+- [x] Name font size increased for better readability 
 
 ## App Brainstorming (Step 4)
 
 Favorite Applications:
-- Spotify: 
-- Notion:
-- Youtube:
+1. Spotify:
+   - Offline listening for premium users
+   - Personalized playlists (Discover Weekly, Radios)
+2. Notion:
+   - Create pages using templates from community forums
+   - Integrates various apps and databases
+3. Youtube:
+   - Recommendations based on watch history
+   - Video quality control options
+
+App Idea:
+A Pomodoro timer app that includes timer functionalities, a to-do list, focus music integration, goal-setting functions, and study day trackers.
 
 ## Notes
 
@@ -32,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
