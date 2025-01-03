@@ -33,11 +33,14 @@ Favorite Applications:
    - Video quality control options
 
 App Idea:
-A Pomodoro timer app that includes timer functionalities, a to-do list, focus music integration, goal-setting functions, and study day trackers.
+A Pomodoro timer app that includes timer functionalities, a to-do list, focus music integration, goal-setting functions, and study day trackers. This will allow users to track productivity and gain better awareness of their time spent on studying. It will also help users minimize distractions while studying. 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Had some difficulties creating and linking the button functionality to the Storyboard file.
+Also saw some difficulties when running the program in the simulator.
 
 ## License
 
